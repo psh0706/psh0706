@@ -1,5 +1,5 @@
 ### Well come to my git hub 👋
-
+my resume 🙋🏻‍♀️ > https://gray-giraffe-d96.notion.site/Park-Suhyun-d193a38597934e2397a3da1f0ff09eaa
 <!--
 **psh0706/psh0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
