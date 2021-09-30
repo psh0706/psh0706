@@ -1,8 +1,9 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFFB00&title_bg=%23B2B2B2&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF6384&height=90&section=header&animation=scaleIn)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFFB00&title_bg=%23B2B2B2&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ## Hello I'm Suhyun 👋🏻
 ![enter image description here](https://i.pinimg.com/originals/00/8a/02/008a02e89562569705c2b30d465e1ba1.gif)
 
