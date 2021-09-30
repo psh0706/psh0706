@@ -19,6 +19,7 @@
 ![Notion Badge](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualStudioCode&logoColor=white) ![Notion Badge](https://img.shields.io/badge/Web_Storm-000000?style=flat-square&logo=webstorm&logoColor=white) ![Notion Badge](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![Notion Badge](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)    
 ![Notion Badge](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Notion Badge](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white) ![Notion Badge](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)    
 
+####   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tngus980706)](https://solved.ac/tngus980706)
   
