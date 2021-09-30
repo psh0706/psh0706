@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF6384&height=90&section=header&animation=scaleIn)
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF6384&height=90&section=header&animation=scaleIn)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFFB00&title_bg=%23B2B2B2&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ## Hello I'm Suhyun 👋🏻
@@ -21,5 +21,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tngus980706)](https://solved.ac/tngus980706)
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FF6384&height=90&section=footer&animation=scaleIn)  
+  
 </div>
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF6384&height=90&section=footer&animation=scaleIn)
+
