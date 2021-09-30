@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFFB00&title_bg=%23B2B2B2&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFFB00&title_bg=%23B2B2B2&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 ![Notion Badge](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualStudioCode&logoColor=white) ![Notion Badge](https://img.shields.io/badge/Web_Storm-000000?style=flat-square&logo=webstorm&logoColor=white) ![Notion Badge](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![Notion Badge](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)    
 ![Notion Badge](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Notion Badge](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white) ![Notion Badge](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)    
 
-[![Solved.ac
+![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tngus980706)](https://solved.ac/tngus980706)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psh0706&show_icons=true&theme=radical)
   
