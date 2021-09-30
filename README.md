@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpsh0706&count_bg=%23FFDE00&title_bg=%23AEAEAE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpsh0706&count_bg=%23FFDE00&title_bg=%23AEAEAE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF6384&height=90&section=header&animation=scaleIn)
