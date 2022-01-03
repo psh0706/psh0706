@@ -7,7 +7,7 @@
 ![enter image description here](https://i.pinimg.com/originals/00/8a/02/008a02e89562569705c2b30d465e1ba1.gif)
 
 ####  💌 Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:20171518@daejin.ac.kr) [![Naver Mail Badge](https://img.shields.io/badge/Naver_Mail-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:best8427@naver.com) [![instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://url.kr/gxnvkf) [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://url.kr/gxnvkf)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:20171518@daejin.ac.kr) [![Naver Mail Badge](https://img.shields.io/badge/Naver_Mail-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:best8427@naver.com) [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://url.kr/gxnvkf)
 
 ##### 💪 Skills
 ![html badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white) ![Notion Badge](https://img.shields.io/badge/Java_Script-E7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Notion Badge](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white) ![Notion Badge](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
