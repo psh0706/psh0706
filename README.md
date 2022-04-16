@@ -4,8 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF6384&height=90&section=header&animation=scaleIn)
 
 ## Hello I'm Suhyun 👋🏻
-![enter image description here](https://i.pinimg.com/originals/00/8a/02/008a02e89562569705c2b30d465e1ba1.gif)
-
 ####  💌 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:20171518@daejin.ac.kr) [![Naver Mail Badge](https://img.shields.io/badge/Naver_Mail-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:best8427@naver.com) [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://url.kr/gxnvkf)
 
